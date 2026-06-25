@@ -1,7 +1,30 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Équateur vs Allemagne" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/7yicevSdhV0NcFph_768x432.jpg" group-title="1 - Équateur vs Allemagne", Équateur vs Allemagne
+https://web.facebook.com/video/playback/playlist.m3u8?v=1544888003751347&u=Adx8FoZ06wW3rLTO8w0XLTsY748GgxcSvhYMHV3Ef8qtFYGa7XQam_3uUOkq0yCq8TouBXSpSA0&s=AdwDrgSF8LUsW9qoYq4OprFlk8w&a=0
+
+#EXTINF:-1 tvg-id="" tvg-name="Équateur vs Allemagne" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/7yicevSdhV0NcFph_768x432.jpg" group-title="1 - Équateur vs Allemagne", Équateur vs Allemagne
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XaNJtf0gdw8yWrJ3Wc9KLKiPvTl6fNv4fT4qrc-z-IOQb9tGi8YZls-ErsoFpkR71aa-DH47Jhf1TxvEZAejiQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Équateur vs Allemagne" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/7yicevSdhV0NcFph_768x432.jpg" group-title="1 - Équateur vs Allemagne", Équateur vs Allemagne
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XaNJtf0gdw8yWrJ3Wc9KLKiPvTl6fNv4fT4qrc-z-IOQb9tGi8YZls-ErsoFpkR71aa-DH47Jhf1TxvEZAejiQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Équateur vs Allemagne" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/7yicevSdhV0NcFph_768x432.jpg" group-title="1 - Équateur vs Allemagne", Équateur vs Allemagne
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XaNJtf0gdw8yWrJ3Wc9KLKiPvTl6fNv4fT4qrc-z-IOQb9tGi8YZls-ErsoFpkR71aa-DH47Jhf1TxvEZAejiQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Équateur vs Allemagne" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/7yicevSdhV0NcFph_768x432.jpg" group-title="1 - Équateur vs Allemagne", Équateur vs Allemagne
 https://ww2.sporttsonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 tvg-id="" tvg-name="Curaçao vs Côte d'Ivoire" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/r0rWBgh8sXy08DlP_768x432.jpg" group-title="2- Curaçao vs Côte d'Ivoire", Curaçao vs Côte d'Ivoire
+https://web.facebook.com/video/playback/playlist.m3u8?v=1577595740550412&u=AdyyhjTVz60y7-Ga5MfR8dRFb_p0Fji6O_MU6BwyXFaI1Imfe9VIHBSkkeBioBvYnbWpsr7Ipw4&s=AdwP5BVQet-UHe6zdXzbAdXjhWg&a=0
+#EXTINF:-1 tvg-id="" tvg-name="Curaçao vs Côte d'Ivoire" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/r0rWBgh8sXy08DlP_768x432.jpg" group-title="2- Curaçao vs Côte d'Ivoire", Curaçao vs Côte d'Ivoire
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/X4CHgUF0xTa7sOQPVJdPUsaaChiEdNir9BnCZXeKU9nVOLb2pEsiWoT8skP-3dIvYp7EMbfvGahZa1Jfv-6qrg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Curaçao vs Côte d'Ivoire" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/r0rWBgh8sXy08DlP_768x432.jpg" group-title="2- Curaçao vs Côte d'Ivoire", Curaçao vs Côte d'Ivoire
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/X4CHgUF0xTa7sOQPVJdPUsaaChiEdNir9BnCZXeKU9nVOLb2pEsiWoT8skP-3dIvYp7EMbfvGahZa1Jfv-6qrg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Curaçao vs Côte d'Ivoire" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/r0rWBgh8sXy08DlP_768x432.jpg" group-title="2- Curaçao vs Côte d'Ivoire", Curaçao vs Côte d'Ivoire
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/X4CHgUF0xTa7sOQPVJdPUsaaChiEdNir9BnCZXeKU9nVOLb2pEsiWoT8skP-3dIvYp7EMbfvGahZa1Jfv-6qrg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live
 
 #EXTINF:-1 tvg-id="" tvg-name="Curaçao vs Côte d'Ivoire" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/r0rWBgh8sXy08DlP_768x432.jpg" group-title="2- Curaçao vs Côte d'Ivoire", Curaçao vs Côte d'Ivoire
 https://ww2.sporttsonline.click/channels/hd/hd11.php
