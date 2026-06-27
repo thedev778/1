@@ -1,13 +1,60 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="27 Juin - Panama vs Angleterre" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/R4ZozRuzEr6R3-wP_768x432.jpg" group-title="1- Panama vs Angleterre", Panama vs Angleterre
+https://web.facebook.com/video/playback/playlist.m3u8?v=1775702520264126&u=Adzi2y6Z17xUhzhl1q2mzuw8ryLPmFNI-svPDbCNZoyiCFCtbToSDU1PAqMBd-dm514AKmDH9do&s=AdxxLSbWUbXst8VQ9LDdHkouBGA&a=0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Panama vs Angleterre" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/R4ZozRuzEr6R3-wP_768x432.jpg" group-title="1- Panama vs Angleterre", Panama vs Angleterre
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nwyVHkfXxGJDhkkzEubtYTerWfu-48PsuJy7cRVf6suRNGF7y-cN94Gs-istL3-CHHbI1LIIi5nEaBalY0zdJw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Panama vs Angleterre" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/R4ZozRuzEr6R3-wP_768x432.jpg" group-title="1- Panama vs Angleterre", Panama vs Angleterre
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nwyVHkfXxGJDhkkzEubtYTerWfu-48PsuJy7cRVf6suRNGF7y-cN94Gs-istL3-CHHbI1LIIi5nEaBalY0zdJw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Panama vs Angleterre" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/R4ZozRuzEr6R3-wP_768x432.jpg" group-title="1- Panama vs Angleterre", Panama vs Angleterre
+https://ze.bzvip.store/live360/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Panama vs Angleterre" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/R4ZozRuzEr6R3-wP_768x432.jpg" group-title="1- Panama vs Angleterre", Panama vs Angleterre
 https://ww2.sporttsonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Croatie vs Ghana" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fNlQI9a7Iqz-ZpdE_768x432.jpg" group-title="2- Croatie vs Ghana ", Croatie vs Ghana
+https://web.facebook.com/video/playback/playlist.m3u8?v=993607889939681&u=AdxecDClp7fI77hz8-Q9rgj0OriEVKUmU_-tcY9cYEZpSQfkor0srXRONDKVCSEdARjHtQDI_qc&s=AdxpwcjrUfa
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Croatie vs Ghana" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fNlQI9a7Iqz-ZpdE_768x432.jpg" group-title="2- Croatie vs Ghana ", Croatie vs Ghana
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/MV32GNpwU94r5hwRO1BIhySY7MPMNckdx2Okx1ywABVu2cjzNSra5cUmMtR40aqaXpDEDZdLEQu0YNzsL46I9w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Croatie vs Ghana" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fNlQI9a7Iqz-ZpdE_768x432.jpg" group-title="2- Croatie vs Ghana ", Croatie vs Ghana
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/MV32GNpwU94r5hwRO1BIhySY7MPMNckdx2Okx1ywABVu2cjzNSra5cUmMtR40aqaXpDEDZdLEQu0YNzsL46I9w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Croatie vs Ghana" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fNlQI9a7Iqz-ZpdE_768x432.jpg" group-title="2- Croatie vs Ghana ", Croatie vs Ghana
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wZ7ebIA_3VRDr4lRW_U-R_ZkTFiYk1LLNBm9U93bPiFdqKcbnhFCiawWl5OMQkRC21UGsZGcfsVX1ak7d783Jg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Croatie vs Ghana" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fNlQI9a7Iqz-ZpdE_768x432.jpg" group-title="2- Croatie vs Ghana ", Croatie vs Ghana
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wZ7ebIA_3VRDr4lRW_U-R_ZkTFiYk1LLNBm9U93bPiFdqKcbnhFCiawWl5OMQkRC21UGsZGcfsVX1ak7d783Jg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
 #EXTINF:-1 tvg-id="" tvg-name="27 Juin - Croatie vs Ghana" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/fNlQI9a7Iqz-ZpdE_768x432.jpg" group-title="2- Croatie vs Ghana ", Croatie vs Ghana
 https://ww2.sporttsonline.click/channels/hd/hd11.php
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Colombie vs Portugal" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/G3L2ewga-ueVdwaA_768x432.jpg" group-title="3- Colombie vs Portugal ", Colombie vs Portugal
+https://web.facebook.com/video/playback/playlist.m3u8?v=1775702520264126&u=Adzi2y6Z17xUhzhl1q2mzuw8ryLPmFNI-svPDbCNZoyiCFCtbToSDU1PAqMBd-dm514AKmDH9do&s=AdxxLSbWUbXst8VQ9LDdHkouBGA&a=0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Colombie vs Portugal" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/G3L2ewga-ueVdwaA_768x432.jpg" group-title="3- Colombie vs Portugal ", Colombie vs Portugal
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nwyVHkfXxGJDhkkzEubtYTerWfu-48PsuJy7cRVf6suRNGF7y-cN94Gs-istL3-CHHbI1LIIi5nEaBalY0zdJw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Colombie vs Portugal" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/G3L2ewga-ueVdwaA_768x432.jpg" group-title="3- Colombie vs Portugal ", Colombie vs Portugal
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nwyVHkfXxGJDhkkzEubtYTerWfu-48PsuJy7cRVf6suRNGF7y-cN94Gs-istL3-CHHbI1LIIi5nEaBalY0zdJw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
 #EXTINF:-1 tvg-id="" tvg-name="27 Juin - Colombie vs Portugal" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/G3L2ewga-ueVdwaA_768x432.jpg" group-title="3- Colombie vs Portugal ", Colombie vs Portugal
 https://ww2.sporttsonline.click/channels/hd/hd11.php
 #EXTINF:-1 tvg-id="" tvg-name="27 Juin - Congo vs Ouzbékistan" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/vrVuG8ndrTcHMsXf_768x432.jpg" group-title="4- Congo vs Ouzbékistan", Congo vs Ouzbékistan
+https://web.facebook.com/video/playback/playlist.m3u8?v=993607889939681&u=AdxecDClp7fI77hz8-Q9rgj0OriEVKUmU_-tcY9cYEZpSQfkor0srXRONDKVCSEdARjHtQDI_qc&s=AdxpwcjrUfaWhJV_BqflnckX2_k&a=0
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Congo vs Ouzbékistan" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/vrVuG8ndrTcHMsXf_768x432.jpg" group-title="4- Congo vs Ouzbékistan", Congo vs Ouzbékistan
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/MV32GNpwU94r5hwRO1BIhySY7MPMNckdx2Okx1ywABVu2cjzNSra5cUmMtR40aqaXpDEDZdLEQu0YNzsL46I9w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Congo vs Ouzbékistan" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/vrVuG8ndrTcHMsXf_768x432.jpg" group-title="4- Congo vs Ouzbékistan", Congo vs Ouzbékistan
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/MV32GNpwU94r5hwRO1BIhySY7MPMNckdx2Okx1ywABVu2cjzNSra5cUmMtR40aqaXpDEDZdLEQu0YNzsL46I9w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="27 Juin - Congo vs Ouzbékistan" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/vrVuG8ndrTcHMsXf_768x432.jpg" group-title="4- Congo vs Ouzbékistan", Congo vs Ouzbékistan
 https://ww2.sporttsonline.click/channels/hd/hd11.php
+
 #EXTINF:-1 tvg-id="" tvg-name="27 Juin - Jordanie vs Argentine" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/8USrzANi8P35LjhP_768x432.jpg" group-title="5- Jordanie vs Argentine", Jordanie vs Argentine
 https://ww2.sporttsonline.click/channels/hd/hd11.php
 #EXTINF:-1 tvg-id="" tvg-name="27 Juin - Algérie vs Autriche" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/BA2QkqPpv1VsD-Eh_768x432.jpg" group-title="6- Algérie vs Autriche", Algérie vs Autriche
