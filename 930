@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/pH0vwa48XB4fNdVPr2pn1fhM8jsgqTFQ-BhTpUXma71OXZADwleHMGc55yzvLq1MYXjm0PRAY06Rd9ksFGlymQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/pH0vwa48XB4fNdVPr2pn1fhM8jsgqTFQ-BhTpUXma71OXZADwleHMGc55yzvLq1MYXjm0PRAY06Rd9ksFGlymQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/W388qwJxO7VwHVMIqh0lEnOw2xhGZtF9o2WxeoT949CxkiQEZ9ymDeTqA68mi6FdmEukZfpFOPkzP68bWvVdDQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uDigLUzkGHiPjUq7w_7q8GAzAcVEbScwtzz3ZlTEtye8rQwxp0ocyduyK-NNXYwNcCcCnHWJF5AxqCGoHtjo8A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uDigLUzkGHiPjUq7w_7q8GAzAcVEbScwtzz3ZlTEtye8rQwxp0ocyduyK-NNXYwNcCcCnHWJF5AxqCGoHtjo8A/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
 https://web.facebook.com/video/playback/playlist.m3u8?v=1165597372439149&u=Adw0p8TfvKjbvJGzP4n5YsvbEd745124yvagIKnuclwL3ougO_WdQewP8bQJDrhpQp8AyfUFU44&s=AdzdSeIpUDydgqm5_75l70Xd_JQ&a=0
@@ -20,7 +34,11 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uDigLUzkGHiPjUq7w
 https://buztv12.b-cdn.net/hls/stream_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
+https://buztv12.b-cdn.net/hls/stream_higher/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
 https://ww2.sporttsonline.click/channels/hd/hd11.php
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Pays-Bas vs Maroc" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/b5MjB-6f9zvjOYdL_768x432.jpg" group-title="3- Pays-Bas vs Maroc", Pays-Bas vs Maroc
