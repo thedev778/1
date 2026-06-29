@@ -1,37 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Afrique du Sud vs Canada" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/qqgjv2mXXQcdMzmi_768x432.jpg" group-title="Afrique du Sud vs Canada", Afrique du Sud vs Canada
-https://web.facebook.com/video/playback/playlist.m3u8?v=1757769158914748&u=AdwcTIjCHFnCyKG9MbGanbKm5Auf0VDp-UhkFSl5KY5_lcgMjSqStvIktJwWeVDcDSQpBkQChOE&s=AdwhNqbJc59WUeGBwah-YJnqwSM&a=0
-
-#EXTINF:-1 tvg-id="" tvg-name="Afrique du Sud vs Canada" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/qqgjv2mXXQcdMzmi_768x432.jpg" group-title="Afrique du Sud vs Canada", Afrique du Sud vs Canada
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/mCUlj_qZl70ozpBG1RTDhbJXQNmj6eP1VRGdiTdfeVsDwWOPbNVaqlx4d69fMdApUG9M5nGGkWr_EKercXFVCQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-
-#EXTINF:-1 tvg-id="" tvg-name="Afrique du Sud vs Canada" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/qqgjv2mXXQcdMzmi_768x432.jpg" group-title="Afrique du Sud vs Canada", Afrique du Sud vs Canada
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/uIC9wmqa_2JAxs86cK-cn4yXV0cpkYH6_LB4RVoIJqljxhxnnANpbryyFYywALYqkGE1p4k2B5WcOURPldNlPA/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
-
-#EXTINF:-1 tvg-id="" tvg-name="Afrique du Sud vs Canada" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/qqgjv2mXXQcdMzmi_768x432.jpg" group-title="Afrique du Sud vs Canada", Afrique du Sud vs Canada
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/mCUlj_qZl70ozpBG1RTDhbJXQNmj6eP1VRGdiTdfeVsDwWOPbNVaqlx4d69fMdApUG9M5nGGkWr_EKercXFVCQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="Afrique du Sud vs Canada" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/qqgjv2mXXQcdMzmi_768x432.jpg" group-title="Afrique du Sud vs Canada", Afrique du Sud vs Canada
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/ynJZHkG6JaXTArc-0RqBzoGLNWVaHamX46-LQk0UBZMYYxPEVL-YJH3hbGcFZg58o2n39hi9FQjjX-0N2T5ePw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live
-
-#EXTINF:-1 tvg-id="" tvg-name="Afrique du Sud vs Canada" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/qqgjv2mXXQcdMzmi_768x432.jpg" group-title="Afrique du Sud vs Canada", Afrique du Sud vs Canada
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/ynJZHkG6JaXTArc-0RqBzoGLNWVaHamX46-LQk0UBZMYYxPEVL-YJH3hbGcFZg58o2n39hi9FQjjX-0N2T5ePw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
-
-#EXTINF:-1 tvg-id="" tvg-name="Afrique du Sud vs Canada" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/qqgjv2mXXQcdMzmi_768x432.jpg" group-title="Afrique du Sud vs Canada", Afrique du Sud vs Canada
+#EXTINF:-1 tvg-id="" tvg-name="29 Juin - 16es: Brésil vs Japon" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/LJIEb63ljAWANb-__768x432.jpg" group-title="1- Brésil vs Japon",Brésil vs Japon
 https://ww2.sporttsonline.click/channels/hd/hd11.php
 
-########## 28 Juin ##########
-
-#EXTINF:-1 tvg-id="" tvg-name="28 Juin - 16es de finale: À déterminer vs À déterminer" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Semaine 3", 28 Juin - 16es de finale: À déterminer vs À déterminer
+#EXTINF:-1 tvg-id="" tvg-name="Allemagne vs Paraguay" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/KyxqcNs9Xxlj3CUm_768x432.jpg" group-title="2- Allemagne vs Paraguay", Allemagne vs Paraguay
 https://ww2.sporttsonline.click/channels/hd/hd11.php
 
-########## 29 Juin ##########
-#EXTINF:-1 tvg-id="" tvg-name="29 Juin - 16es: Brésil vs Japon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Semaine 3", 29 Juin - 16es: Brésil vs Japon
-https://ww2.sporttsonline.click/channels/hd/hd11.php
-#EXTINF:-1 tvg-id="" tvg-name="29 Juin - 16es: Allemagne vs 3e Groupe A/B/C/D/F" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Semaine 3", 29 Juin - 16es: Allemagne vs 3e Groupe A/B/C/D/F
-https://ww2.sporttsonline.click/channels/hd/hd11.php
-#EXTINF:-1 tvg-id="" tvg-name="29 Juin - 16es: Pays-Bas vs Maroc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/330px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Semaine 3", 29 Juin - 16es: Pays-Bas vs Maroc
+#EXTINF:-1 tvg-id="" tvg-name="Pays-Bas vs Maroc" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/b5MjB-6f9zvjOYdL_768x432.jpg" group-title="3- Pays-Bas vs Maroc
+https", Pays-Bas vs Maroc
 https://ww2.sporttsonline.click/channels/hd/hd11.php
 
 ########## 30 Juin ##########
